@@ -1,0 +1,26 @@
+{
+  "name": "zoomers-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be be generted for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-ND/zoomers-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "zoomers"
+  ],
+  "author": "Jose <Issaidiaz2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jose-ND/zoomers-js-footer/issues"
+  },
+  "homepage": "https://github.com/Jose-ND/zoomers-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
